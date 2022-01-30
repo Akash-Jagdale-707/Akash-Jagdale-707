@@ -7,6 +7,6 @@
 - 👨‍💻 I’m currently studing in Atharva College of Engineering in IT Stream (2nd Year). 
 - 🌱 I’m currently learning Python.<!-- - 👯 I’m looking to collaborate on ... -->
 - 😄 Pronouns: Sky (If you don't know to pronounce my name)
-<!-- - ⚡ Fun fact: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Jagdale-707&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000) -->
+<!-- - ⚡ Fun fact: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Jagdale-707&&show_icons=true&title_color=00FFFF&icon_color=bb2acf&text_color=black&bg_color=0000) -->
 
 <img align="left" alt="Akash Jagdale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash-Jagdale-707&show_icons=true&hide_border=true"/>
