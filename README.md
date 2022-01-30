@@ -11,4 +11,4 @@
 
 <img align="left" alt="Akash Jagdale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akash-Jagdale-707&show_icons=true&hide_border=true"/>
 
-<img width="41%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash-Jagdale-707&layout=compact" />
+<img width="41%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash-Jagdale-707&layout=compact" />
